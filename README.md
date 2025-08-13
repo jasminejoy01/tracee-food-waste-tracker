@@ -25,7 +25,7 @@ Stacey’s mistake? She thought best-before meant expiry, and she forgot the ite
 - About **half of household food waste happens at home**.
 - Many consumers misunderstand *best-before* vs *expiry* dates.
 - Once groceries leave the store, there’s **no tracking** of what’s bought, stored, or wasted.
-- Food waste costs money, wastes resources, and strains waste management systems:contentReference[oaicite:0]{index=0}.
+- Food waste costs money, wastes resources, and strains waste management.
 
 ---
 
@@ -36,7 +36,7 @@ Tracee bridges the gap between purchase and consumption by providing:
 - **Alerts & nudges** – Notifications for items nearing best-before dates.
 - **Waste tracking** – Log what’s discarded vs used.
 - **Insights & budgeting** – See $ lost to waste and adjust buying habits.
-- **Optional integrations** – Recipes, donation locations, grocery swaps:contentReference[oaicite:1]{index=1}.
+- **Optional integrations** – Recipes, donation locations, grocery.
 
 ---
 
