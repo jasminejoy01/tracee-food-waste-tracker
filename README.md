@@ -3,7 +3,8 @@
 A concept app developed for the **ASPIRE Challenge** to help households cut food waste by tracking groceries from receipts and nudging timely use.  
 *“What’s measured is managed” – Tracee makes food waste visible, actionable, and preventable.*
 
-[![Pitch Deck Thumbnail](pitch/Organic Waste Management.pdf)]([https://drive.google.com/your-deck-link-here](https://github.com/jasminejoy01/tracee-food-waste-tracker/blob/main/pitch/Organic%20Waste%20Management.pdf))
+[![View the Tracee Pitch Deck](pitch/pitch_thumbnail.png)](pitch/Organic%20Waste%20Management.pdf)
+
 
 ---
 
